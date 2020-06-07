@@ -1,4 +1,3 @@
-# Trial
 import sys
 import pip
 from pip._internal import main
